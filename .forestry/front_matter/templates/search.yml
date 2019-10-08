@@ -1,4 +1,9 @@
 ---
 label: Search
 hide_body: true
-fields: []
+fields:
+- name: input_value
+  type: text
+  config:
+    required: false
+  label: Input value
