@@ -7,3 +7,4 @@ fields:
   config:
     required: false
   label: Input value
+  default: Default value
